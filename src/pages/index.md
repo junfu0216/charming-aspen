@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Yep
+    title: Yep.Tokyo
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - type: action
